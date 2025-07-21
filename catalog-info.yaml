@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aerogear-ios-sync
+  annotations:
+    github.com/project-slug: lholmquist/aerogear-ios-sync
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/lholmquist
